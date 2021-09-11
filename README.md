@@ -16,6 +16,7 @@ Functions :
 What need to add to main folder:
 - ckeditor
 - bootstrap 4 and 5
+- .
 
 // first project not a done at all
 
