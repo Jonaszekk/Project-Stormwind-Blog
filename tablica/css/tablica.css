@@ -1,8 +1,4 @@
-.tlo {
-    background-image: url("../img/cork-board.png");
-    width: 1920px;
-    height: 1080px;
-}
+
 .sticky {
     -webkit-box-shadow: #DDD 0px 1px 2px;
     position: relative;
