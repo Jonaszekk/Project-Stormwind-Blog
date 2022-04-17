@@ -19,14 +19,16 @@
 <div class="container mt-5">
 <form method="GET">
 <!-- Title --> 
-<input type="text" name="title" placeholder="Tytuł Ogłoszenia ( wyświetla się na Tablicy )" class="form-control my-3  text-black text-center">
+<input type="text" name="title" placeholder="Tytul" class="form-control my-3 bg-white text-black text-center">
 <!-- Subtitle --> 
-<input type="text" name="subtitle" placeholder="Pod tytuł ( wyświetla się na Tablicy )" class="form-control my-3  text-black text-center">
+<input type="text" name="subtitle" placeholder="Pod tytuł" class="form-control my-3 bg-white text-black text-center">
 <!-- Content --> 
-<input type="text" name="kontakt" placeholder="Kontakt do ciebie ( Ważne )" class="form-control my-3  text-black text-center">
-<!-- Content --> 
-<textarea name="content" placeholder="Zawartość" class="form-control my-3  text-black text-center" cols="30" rows="10"></textarea>
-
+<textarea name="content" class="form-control my-3 bg-dark text-white"></textarea>
+<!-- Zdjęcie -->
+<input type="file" name="img" class="text-input"><img src= "upload/<?php echo $q['img'];?>">
+<script>
+ CKEDITOR.replace('content');
+</script>
 
 
 <!-- Dodaj Post --> 
