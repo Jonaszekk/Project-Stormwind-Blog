@@ -84,6 +84,7 @@ $('[data-toggle="tooltip"]').tooltip();
             <li><a href="profil.php"><i class="fas fa-user"></i>Konto</a></li>
             <li><a href="info.php"><i class="fas fa-address-book"></i>Informacje</a></li>           
             <li><a href="adminprofil.php"><i class="fas fa-project-diagram"></i>Administracja</a></li>
+            <li><a href="patchnote.php"><i class="fas fa-project-diagram"></i>Patchnote</a></li>
             <li><a href="include/logout.inc.php"><i class="fas fa-map-pin"></i>Wyloguj się</a></li>
         </ul> 
         
