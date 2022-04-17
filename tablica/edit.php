@@ -28,11 +28,12 @@
 <!-- Subtitle -->
 <input type="text" name="subtitle" placeholder="Pod tytuł" class="form-control my-3  text-black text-center" value="<?php echo $q['subtitle'];?>">
 <!-- Content -->
-<textarea name="content" class="form-control my-3 bg-dark text-white"><?php echo $q['content'];?></textarea>
+<textarea name="content" class="form-control my-3  text-black text-center"><?php echo $q['content'];?></textarea>
 <!-- Zdjęcie -->
 <input type="text" name="kontakt" placeholder="Kontakt" class="form-control my-3 text-black text-center" value="<?php echo $q['kontakt'];?>">
 
              <button name="update" class="btn btn-dark" >Update</button>
+             <button class="btn btn-danger" name="delete">Delete</button>
             <a href="tablica.php" button name="back"  class="btn btn-dark"> Back </button></a> 
         </form>
 <?php }?>
