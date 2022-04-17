@@ -39,7 +39,7 @@ include_once 'header.php';
             <?php echo $q['content'];?>
          </p>
             <div class="skills">
-                <span>Kontakt:</span>
+                <span>Wersja:</span>
                 <span></span>
                 <span></span>
 				<span></span>
