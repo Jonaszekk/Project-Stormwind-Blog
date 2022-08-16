@@ -3,7 +3,7 @@ Project of Simple Blog using: HTML, CSS, PHP, MYSQL, and BOOTSTRAP
 
 Functions :
 
-- A personal blog about Blizzard and their work
+- A personal blog about Blizzard and their work..
 - Main Theme: White and Blue symbolizing Stormwind ( place in Warcraft Universe )
 - Notice Board -> for players (looking for others, help with something etc.) <- Possibility to add "Cards" to the "Board" after logging in
 - Login / Registration
