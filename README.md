@@ -1,7 +1,6 @@
 # Project-Stormwind
 Project of Simple Blog using: HTML, CSS, PHP, MYSQL, and BOOTSTRAP
 
-curl -i  https://api.github.com/repos/:owner/:repo/releases -H "Accept: application/vnd.github.manifold-preview+json"
 
 Functions :
 
