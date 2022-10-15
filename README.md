@@ -17,12 +17,6 @@ Functions :
 What need to add to main folder:
 - ckeditor
 - bootstrap 4 and 5
-- .
-
-What need to do: 
-- Improve Security Service
-
-// first project not a done at all
 
 Main Page:
 ![image](https://user-images.githubusercontent.com/90138353/132919335-9f1f35e1-d99c-40a7-a28d-6d13d9f16832.png)
