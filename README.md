@@ -34,9 +34,8 @@ Login and Registration:
 ![image](https://user-images.githubusercontent.com/90138353/132919667-e141849e-9752-4e31-a7b8-ddfe23e78b94.png)
 
 
-Board ( very simple look ):
-![image](https://user-images.githubusercontent.com/90138353/132919462-8b57cd55-84c8-4eed-b522-ee1dda993a7a.png)
-
+Board:
+![Przechwytywanie](https://user-images.githubusercontent.com/90138353/218534243-4cf9cafd-e8cf-4059-afd6-154fdbd10234.PNG)
 ![image](https://user-images.githubusercontent.com/90138353/132919478-d4de3ef5-574b-4bf9-8a75-37de5be4561d.png)
 
 ![image](https://user-images.githubusercontent.com/90138353/132919487-e7f705b2-5593-46c7-a13f-63e373e0eb0d.png)
