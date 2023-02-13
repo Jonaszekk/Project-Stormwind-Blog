@@ -8,9 +8,9 @@ Functions :
 - Main Theme: White and Blue symbolizing Stormwind ( place in Warcraft Universe )
 - Notice Board -> for players (looking for others, help with something etc.) <- Possibility to add "Cards" to the "Board" after logging in
 - Login / Registration
-- Patchnote
+- Patchnotes
 - Contact / Information
-- Header and Footer
+- Header and Footer ( Header need some changes )
 - User profile and Administration Panel => adding / removing / editing Articles.
 
 
